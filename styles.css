@@ -109,6 +109,15 @@ hr {
   width: 5%;
   }
 
+.hrcus {
+  margin-bottom: 40px;
+}
+
+.hrtools {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
 .top {
   background-color: #251D3A;
   padding-top: 300px;
