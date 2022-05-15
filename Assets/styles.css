@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   text-align: center;
@@ -68,17 +69,18 @@ header {
   margin-top: -10px;
   margin-bottom: 10px;
   border-color: #FF7700;
-  box-shadow: 0 0 8px rgba(255,199,0, 0.6);
+  box-shadow: 0 0 8px #ff7700;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre&family=Roboto:ital,wght@0,100;1,900&display=swap');
 h1{
+  font-family: 'Proza Libre', sans-serif;
   font-size: 300%;
   margin: 0 auto;
-  width: 10%;
+  width: 20%;
   height: auto;
   color: #FF7700;
   text-align: center;
-  font-family: 'Sacramento', cursive;
 }
 
 h2 {
@@ -104,7 +106,7 @@ p{
 }
 
 hr {
-  margin-top: 25px;
+  margin-top: 20px;
   margin-bottom: 60px;
   border-style: none;
   border-top-style: dotted;
