@@ -24,6 +24,14 @@ header {
   color: #FF7700;
   font-weight: bold;
 }
+
+.tabletop {
+  font-size: 30px;
+  color: #FF7700;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
 .toolname{
     color: #E04D01;
     font-size: 20px;
@@ -47,12 +55,12 @@ header {
 .ulnav {
   width: auto;
   float: right;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .linav {
   display: inline-block;
-  padding: 15px 30px:
+  padding: 0px 10px;
 }
 
 .anav {
@@ -60,7 +68,7 @@ header {
   color: #E04D01;
   text-decoration: none;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.2vw;
+  font-size: 150%;
   margin-right: 60px;
 }
 .anav:hover{
@@ -92,7 +100,7 @@ h1{
 }
 
 h2 {
-  color: #E04D01;
+  color: #FF7700;
   font-size: 200%;
   font-family: 'montserrat',sans-serif;
 }
@@ -111,6 +119,7 @@ p{
   margin-right: auto;
   width: 30%;
   color: #E04D01;
+  font-size: 120%;
 
 }
 
