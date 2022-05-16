@@ -110,6 +110,7 @@ h2 {
 }
 
 h3{
+  font-size: 130%;
   color: #E04D01;
   font-family: 'montserrat',sans-serif;
 }
@@ -119,7 +120,7 @@ p{
   margin-right: auto;
   width: 30%;
   color: #E04D01;
-  font-size: 120%;
+  font-size: 110%;
 
 }
 
