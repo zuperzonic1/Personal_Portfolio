@@ -12,15 +12,18 @@ header {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
 .tabletitle{
   font-size: 30px;
   color: #FF7700;
   font-weight: bold;
 }
+
 .toolname{
     color: #E04D01;
     font-size: 20px;
 }
+
 .toolstable {
   margin-left: auto;
   margin-right: auto;
@@ -48,6 +51,7 @@ header {
   padding: 15px 30px:
 }
 
+
 .anav {
   text-align: center;
   color: #E04D01;
@@ -61,8 +65,8 @@ header {
   margin-top: -16px;
 }
 
-.igpic{
 
+.igpic{
 }
 .igpic:hover{
   margin-top: -10px;
@@ -71,7 +75,8 @@ header {
   box-shadow: 0 0 8px rgba(255,199,0, 0.6);
 }
 
-h1{
+
+h1 {
   font-size: 300%;
   margin: 0 auto;
   width: 10%;
@@ -90,12 +95,12 @@ h2 {
   padding-top: 30px;
 }
 
-h3{
+h3 {
   color: #E04D01;
   font-family: 'montserrat',sans-serif;
 }
 
-p{
+p {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
@@ -133,14 +138,17 @@ hr {
   right: 30%;
   top: 15%;
 }
-.star2{
+
+.star2 {
   position: absolute;
   right: 25%;
   bottom: 15%;
+  top: auto;
 }
+
 .star3 {
   position: absolute;
-  left: 25%;
+  left: 15%;
   bottom: 15%;
 }
 
