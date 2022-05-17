@@ -75,6 +75,14 @@ header {
   box-shadow: 0 0 8px rgba(255,199,0, 0.6);
 }
 
+.skillpic1{
+}
+.skillpic1:hover{
+  margin-top: -10px;
+  margin-bottom: 10px;
+  border-color: #FF7700;
+  box-shadow: 0 0 8px rgba(255,199,0, 0.6);
+}
 
 h1 {
   font-size: 300%;
